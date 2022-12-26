@@ -7,4 +7,6 @@ This is a two-player dice game. The rules:
 - If the players do not want to risk their points, thay can press hold button and by doing this, they save their points but the throwing turn is other player's now.
 - Whichever player reaches 100 or more points first, he/she wins the game.
 
+https://odabasi61.github.io/Pig-Game/
+
 ![pig game](https://user-images.githubusercontent.com/114237174/209423581-2a5f9a03-61da-4f24-b722-04f35351c0f4.png)
